@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\He_dieu_hanh\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\he_dieu_hanh\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\He_dieu_hanh\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\He_dieu_hanh\\WindowsFormsApp1\\windowsformsapp1\\resultform_sjf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_sjf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\He_dieu_hanh\\WindowsFormsApp1\\windowsformsapp1\\resultform_fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\He_dieu_hanh\\WindowsFormsApp1\\windowsformsapp1\\resultform_fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultForm_FCFS.cs",
+              "DocumentMoniker": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "ToolTip": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswHIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:35:04.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultForm_SJF.cs",
+              "DocumentMoniker": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\ResultForm_SJF.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_SJF.cs",
+              "ToolTip": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\ResultForm_SJF.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_SJF.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:33:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultForm_FCFS.cs [Design]",
+              "DocumentMoniker": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "ToolTip": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\ResultForm_FCFS.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_FCFS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:33:56.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:57:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\He_dieu_hanh\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:56:50.764Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
